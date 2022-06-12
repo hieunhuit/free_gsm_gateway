@@ -1,5 +1,5 @@
 # Install Asterisk + FreePBX + Chan_dongle
-
+#### Asterisk FreePBX installation have refered from https://vietcalls.com/cai-dat-freepbx-15-va-asterisk-16-tren-debian-10/ - Kien Le
 > VMWare ESXI 7.0: Passthrough usb via pci option </br>
 > OS:debian 10</br>
 > RAM: 4096MB</br>
