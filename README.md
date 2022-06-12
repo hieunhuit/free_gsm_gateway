@@ -7,7 +7,7 @@
 > CPU: 8vCPU</br>
 > Disk: 10GB</br>
 
-> Is that actually work?</br>
+#### Is that actually work?</br>
 > I have installed 3 Sim card and it works fine, sound quality is very good, clear but it's quite a bit of delay (~200 => 300ms)</br>
 > If I use android wifi softphone, it will become worst (>500ms)</br>
 
