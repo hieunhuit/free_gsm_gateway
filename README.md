@@ -1,10 +1,15 @@
+# Free GSM Gateway
 # Install Asterisk + FreePBX + Chan_dongle
 #### Asterisk FreePBX installation have refered from https://vietcalls.com/cai-dat-freepbx-15-va-asterisk-16-tren-debian-10/ - Kien Le
 > VMWare ESXI 7.0: Passthrough usb via pci option </br>
 > OS:debian 10</br>
 > RAM: 4096MB</br>
 > CPU: 8vCPU</br>
-> Disk: 10GB
+> Disk: 10GB</br>
+
+> Is that actually work?</br>
+> I have installed 3 Sim card and it works fine, sound quality is very good, clear but it's quite a bit of delay (~200 => 300ms)</br>
+> If I use android wifi softphone, it will become worst (>500ms)</br>
 
 ```sudo apt-get install sudo -y \n
 export PATH="$PATH:/sbin:/usr/sbin:usr/local/sbin" \n
