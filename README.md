@@ -11,6 +11,7 @@
 > I have installed 3 Sim card and it works fine, sound quality is very good, clear but it's quite a bit of delay (~200 => 300ms)</br>
 > If I use android wifi softphone, it will become worst (>500ms)</br>
 
+# Before start, make sure you have sudo. If not...
 ```sudo apt-get install sudo -y \n
 export PATH="$PATH:/sbin:/usr/sbin:usr/local/sbin" \n
 adduser <user_name> sudo \n
