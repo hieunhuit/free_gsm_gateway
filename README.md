@@ -179,7 +179,7 @@ sudo cp etc/dongle.conf /etc/asterisk/dongle.conf
 ```
 sudo apt install usb-modeswitch
 ```
-## Re-check by type: usb_modeswitch
+> Re-check by type: usb_modeswitch
 
 # Set permisions for asterisk access to ttyUSB
 ```
