@@ -225,3 +225,6 @@ sudo asterisk -rvvvvv
 
 ### create custom trunk for dongle on freePBX. It call `dongle/<dongle name in dongle.conf>/$OUTNUM$`
 
+# If device is busy ttyUSB*
+> Try to find out which process is using that port
+> Sometimes, It comes from Permision, sometime ModemManager (stop that service and systemctl disable)
