@@ -175,6 +175,12 @@ sudo make
 sudo make install
 sudo cp etc/dongle.conf /etc/asterisk/dongle.conf
 ```
+# Important! Need to install usb-modeswitch
+```
+sudo apt install usb-modeswitch
+```
+## Re-check by type: usb_modeswitch
+
 # Set permisions for asterisk access to ttyUSB
 ```
 sudo nano /etc/udev/rules.d/30-permisions.rules
